@@ -14,5 +14,5 @@ The goal of this project is to turn raw barbershop CSV files into a clean data w
 
 ## Pipeline Flow
 
-csv Files -> Bronze -> Staging -> Data Warehouse 
+CSV Files -> Bronze -> Staging -> Data Warehouse 
 
