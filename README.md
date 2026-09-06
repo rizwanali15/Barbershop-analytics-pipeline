@@ -1,10 +1,10 @@
 # Barbershop Analytics Pipeline
 
-A beginner-friendly end-to-end data engineering project using Python, SQL Server, and Power BI.
+A beginner-friendly end-to-end data engineering project using Python, and SQL Server.
 
 ## Project Goal
 
-The goal of this project is to turn raw barbershop CSV files into a clean data warehouse star schema that can be used for business reporting in Power BI.
+The goal of this project is to turn raw barbershop CSV files into a clean data warehouse star schema that can be used for business reporting.
 
 ## Tech Stack
 
@@ -14,5 +14,5 @@ The goal of this project is to turn raw barbershop CSV files into a clean data w
 
 ## Pipeline Flow
 
-CSV Files -> Bronze -> Staging -> Data Warehouse 
+CSVgit ad Files -> Bronze -> Staging -> Data Warehouse 
 
